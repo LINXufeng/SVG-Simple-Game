@@ -1,0 +1,26 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g id = "welcome_page">
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="402" width="802" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_1" height="393" width="793" y="4.5" x="3.5" stroke-width="1.5" stroke="#000" fill="#FFFA8D"/>
+  <text stroke="#000" transform="matrix(30.2271671295166,0,0,1,-6532.27185344696,0) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_2" y="74.5" x="223.5" stroke-width="0" fill="#000000"/>
+  <text font-weight="bold" stroke="#000" transform="matrix(1.1463191509246824,0,0,1.2973759938110916,-223.61551994830367,-72.86002682439516) " xml:space="preserve" text-anchor="start" font-family="Arvo, sans-serif" font-size="35" id="svg_3" y="102.686518" x="223.986898" stroke-opacity="null" stroke-width="0" fill="#fc7e7e">Pikachu Go!ポケモンゲットだぜーッ！</text>
+  <text font-weight="bold" stroke="#000" xml:space="preserve" text-anchor="start" font-family="Oswald, sans-serif" font-size="24" id="svg_4" y="102.453125" x="71.539063" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#894F3F">You are Pokémon Trainer. You and your partner Pikachu</text>
+  <text style="cursor: move;" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Oswald, sans-serif" font-size="24" id="svg_5" y="136.5" x="35.65625" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#894F3F">want to getto pokemon and collect badge as many as possible</text>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Oswald, sans-serif" font-size="24" id="svg_8" y="172.5" x="4.023438" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#894F3F">Use the 'A' key to go left, the 'D' key to go right, the 'W' key to jump</text>
+  <text style="cursor: move;" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Oswald, sans-serif" font-size="24" id="svg_10" y="210.5" x="163.570313" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#894F3F">the 'SPACE' key to throw Pokemon balls</text>
+  <text stroke="#000" font-style="normal" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="41" id="svg_11" y="262.5" x="119.820313" stroke-width="1.5" fill="#f7bbc6">Be a Great Pokémon Trainer!!!</text>
+  <rect stroke="#000" id="svg_12" height="47" width="239.000003" y="291.5" x="44.5" stroke-opacity="null" stroke-width="1.5" fill="#f7f77b"/>
+  <rect stroke="#000" id="svg_14" height="47.000002" width="262" y="290.499999" x="499.5" stroke-opacity="null" stroke-width="1.5" fill="#f7f77b"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Arvo, sans-serif" font-size="26" id="svg_15" y="324.5" x="76.5" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#ff0000">normal mode</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Arvo, sans-serif" font-size="26" id="svg_16" y="322.5" x="559.5" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#ff0000">zoom mode</text>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Times New Roman', Times, serif" font-size="20" id="svg_17" y="383.5" x="129.71875" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">                        author:LIN Xufeng (Felix.X.Rin)</text>
+ </g>
+</svg>
